@@ -1,0 +1,10 @@
+[package]
+name = "zakat-rs-murabaha-schedule"
+version = "1.0.0"
+edition = "2021"
+description = "Shariah-Compliant Cost-Plus Murabaha Amortization Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "zakat_rs_murabaha_schedule"
+path = "main.rs"
